@@ -1,3 +1,6 @@
+This app is like Google Map search. Can be used to search Location in world map.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
