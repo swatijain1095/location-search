@@ -1,8 +1,13 @@
 This app is like Google Map search. Can be used to search Location in world map.
+
+## Live Demo
+https://location-search-nine.vercel.app/
+
+## Preview
 ![AppImg](https://github.com/user-attachments/assets/6cf1c7ea-ce16-4e92-a73a-089dc9732f1d)
 
 
-# React + TypeScript + Vite
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
