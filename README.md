@@ -1,3 +1,4 @@
+## Location Search
 This app is like Google Map search. Can be used to search Location in world map.
 
 ## Live Demo
